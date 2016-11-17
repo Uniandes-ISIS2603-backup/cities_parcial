@@ -2,7 +2,6 @@
 
 ## Instrucciones:
 
-1. Importe la colección de request para Postman `citiespostmantest.postman_collection.json` que se encuentra en la raiz del proyecto. 
 
 2. Ejecute los  POST:
 
