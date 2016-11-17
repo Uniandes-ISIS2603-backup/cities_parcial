@@ -3,12 +3,15 @@
 Instrucciones:
 
 1. Importe la colección  de request postman que se encuentra en la raiz de la aplicación. 
+
 2. Ejecute los  POST:
+
 a. POST http://localhost:8080/cities-api/api/cities con Body:   
 {
     "id": 1,
     "name": "Bogota"
   }
+
 b. POST http://localhost:8080/cities-api/api/cities con Body:   
 {
     "id": 2,
